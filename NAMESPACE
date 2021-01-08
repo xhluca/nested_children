@@ -1,0 +1,9 @@
+# AUTO GENERATED FILE - DO NOT EDIT
+
+export(ComponentA)
+export(ComponentB)
+export(ComponentC)
+export(nestedChildren)
+export(componentC)
+export(componentA)
+export(componentB)

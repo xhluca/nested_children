@@ -1,0 +1,15 @@
+webpackHotUpdatenested_children("main",{
+
+/***/ "./src/lib/components/ComponentA.js":
+/*!******************************************!*\
+  !*** ./src/lib/components/ComponentA.js ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: /home/xhlu/dev/nested_children/src/lib/components/ComponentA.js: Identifier 'props' has already been declared (11:20)\n\n\u001b[0m \u001b[90m  9 | \u001b[39m\u001b[90m * which is editable by the user.\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 10 | \u001b[39m\u001b[90m */\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 11 | \u001b[39m\u001b[36mconst\u001b[39m \u001b[33mComponentA\u001b[39m \u001b[33m=\u001b[39m (props) \u001b[33m=>\u001b[39m {\u001b[0m\n\u001b[0m \u001b[90m    | \u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 12 | \u001b[39m    \u001b[36mconst\u001b[39m [children\u001b[33m,\u001b[39m setProps\u001b[33m,\u001b[39m \u001b[33m...\u001b[39mprops] \u001b[33m=\u001b[39m otherProps\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 13 | \u001b[39m    console\u001b[33m.\u001b[39mlog(otherProps\u001b[33m.\u001b[39ma\u001b[33m,\u001b[39m otherProps\u001b[33m.\u001b[39mb\u001b[33m,\u001b[39m otherProps\u001b[33m.\u001b[39mc)\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 14 | \u001b[39m\u001b[0m\n    at Object._raise (/home/xhlu/dev/nested_children/node_modules/@babel/parser/lib/index.js:748:17)\n    at Object.raiseWithData (/home/xhlu/dev/nested_children/node_modules/@babel/parser/lib/index.js:741:17)\n    at Object.raise (/home/xhlu/dev/nested_children/node_modules/@babel/parser/lib/index.js:735:17)\n    at ScopeHandler.checkRedeclarationInScope (/home/xhlu/dev/nested_children/node_modules/@babel/parser/lib/index.js:4919:12)\n    at ScopeHandler.declareName (/home/xhlu/dev/nested_children/node_modules/@babel/parser/lib/index.js:4899:14)\n    at Object.checkLVal (/home/xhlu/dev/nested_children/node_modules/@babel/parser/lib/index.js:9590:24)\n    at Object.checkParams (/home/xhlu/dev/nested_children/node_modules/@babel/parser/lib/index.js:11255:12)\n    at Object.node.body.parseBlock.hasStrictModeDirective (/home/xhlu/dev/nested_children/node_modules/@babel/parser/lib/index.js:11230:14)\n    at Object.parseBlockOrModuleBlockBody (/home/xhlu/dev/nested_children/node_modules/@babel/parser/lib/index.js:12281:23)\n    at Object.parseBlockBody (/home/xhlu/dev/nested_children/node_modules/@babel/parser/lib/index.js:12249:10)");
+
+/***/ })
+
+})
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiI1ODg1NzNmLW1haW4td3BzLWhtci5qcyIsInNvdXJjZVJvb3QiOiIifQ==

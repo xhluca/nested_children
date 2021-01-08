@@ -1,0 +1,7 @@
+include nested_children/nested_children.min.js
+include nested_children/nested_children.min.js.map
+include nested_children/metadata.json
+include nested_children/package-info.json
+include README.md
+include LICENSE
+include package.json
